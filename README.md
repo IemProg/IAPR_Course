@@ -18,3 +18,4 @@ Please find below the list of material accessible from this repository:
 1. [Lab 1: image segmentation][l01]
 1. [Lab 2: object description][l02] 
 1. [Lab 3: classification][l03]
+1. [Notes I / II /II: Notes for Oral Exam of IAPR 2020]
